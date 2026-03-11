@@ -1,0 +1,15 @@
+{
+    "name": "subotiz-plugin",
+    "version": "0.0.1",
+    "description": "Subotiz development tools with payment and subscription management etc.",
+    "author": {
+        "name": "Subotiz",
+        "email": "weihanlai@shoplazza.com"
+    },
+    "keywords": [
+        "subotiz",
+        "payment",
+        "subscription"
+    ],
+    "logo": "assets/subotiz.svg"
+}
